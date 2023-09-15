@@ -2,7 +2,7 @@
   "name": "new-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/aishwaryanaidu14/recipe-search-app.git",
+  "homepage": "https://aishwaryanaidu14.github.io/recipe-search-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
